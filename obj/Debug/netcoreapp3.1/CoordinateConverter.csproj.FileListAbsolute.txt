@@ -1,0 +1,12 @@
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.exe
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.deps.json
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.runtimeconfig.json
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.runtimeconfig.dev.json
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.dll
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\bin\Debug\netcoreapp3.1\CoordinateConverter.pdb
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.csprojAssemblyReference.cache
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.csproj.CoreCompileInputs.cache
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.AssemblyInfoInputs.cache
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.AssemblyInfo.cs
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.dll
+D:\School Courses\COMP-6034 (Program. Basics)\Lab 03 - Coordinate Converter\Coordinate Converter\CoordinateConverter\obj\Debug\netcoreapp3.1\CoordinateConverter.pdb
